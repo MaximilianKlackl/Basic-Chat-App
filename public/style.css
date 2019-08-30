@@ -1,0 +1,21 @@
+body
+{
+    padding: 0;
+    margin: 0;
+}
+
+#main-container
+{
+    margin: 10px;
+}
+
+ul li
+{
+    list-style-type: none;
+    font-size: 1.2em;
+}
+
+#message, #name, #send
+{
+    margin-top: 10px;
+}
